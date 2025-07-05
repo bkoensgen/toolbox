@@ -1,2 +1,2 @@
 @echo off
-node "C:\Scripts\src\code-extractor\extractCode.js" %*
+node "%~dp0..\src\code-extractor\extractCode.js" %*
