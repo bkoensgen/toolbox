@@ -14,7 +14,7 @@ This repository is a collection of personal command-line scripts. They are desig
 
     ```bash
     # Clone it to a permanent location on your machine
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_NOM_DE_REPO.git
+    git clone https://github.com/bkoensgen/toolbox.git
     ```
 
 2.  **Add the `bin` directory to your system's PATH:**
