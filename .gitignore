@@ -1,0 +1,9 @@
+# Fichiers de log et de sortie
+all_code_extract.txt
+
+# Dépendances Node.js
+node_modules/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
